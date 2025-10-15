@@ -1,2 +1,2 @@
-# My-Ace-Bazar
-My Ace Bazar website prototyping and front-end development.
+# Charu-s-Kitchen
+An e-commerce platform for snacks and birthdays parties' food on order.
